@@ -53,7 +53,7 @@ Lower sugar and higher fiber cereals tend to have higher ratings
 - Used weekly seasonality (7-day cycle)  
 
 **Key Insight:**  
-Sales follow consistent weekly patterns with predictable peak days  
+Sales follow consistent weekly patterns with predictable peak days
 
 ---
 
