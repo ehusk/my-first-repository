@@ -24,7 +24,8 @@ In this project, I acted as a data analyst tasked with:
 ## Skills & Tools
 
 ### Tools
-- Microsoft Power BI Desktop  
+- Microsoft Power BI Desktop
+- Microsoft Project
 
 ### Skills
 - Data cleaning and preparation  
